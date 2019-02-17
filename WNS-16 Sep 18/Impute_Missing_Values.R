@@ -54,5 +54,5 @@ actual <- original$Smoking[is.na(dat$Smoking)]
 predicted <- imputed$Smoking[is.na(dat$Smoking)] 
 table(actual)
 table(predicted)
-mean(actual)
+mean(actual) 
 mean(predicted)
