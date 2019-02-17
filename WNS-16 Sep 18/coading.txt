@@ -1,0 +1,29 @@
+department
+1 Sales & Marketing
+2 Operations
+3 Technology
+4 Analytics
+5 R&D
+6 Procurement
+7 Finance
+8 HR
+9 Legal
+
+education
+1 Below secondary
+2 Bechalors
+3 Masters&above
+
+gender	
+1 m
+2 f
+
+recruitment_channel	
+1 sourcing
+2 referred
+3 other
+
+
+
+
+
