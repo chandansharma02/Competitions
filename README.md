@@ -5,7 +5,7 @@ Detect toxic content to improve online conversations. A key challenge is to weed
 
 Tools and Techniques: NLP, Torch, CLR, Attention, GRU, Capsules, RNN, LSTM, Bidirectional, Dynamic Padding, Auto Spell Correction, Bucket iteration, DeepMoji  
 
-## 2) Quora Insincere Questions Classification - Nov 2018
+## 2) HR Analytics - Sep 2018
 Predictive analytics in identifying the employees most likely to get promotedDetect. 
 
 Tools and Techniques: R, Keras, Corr, glm, mice, ANN  
